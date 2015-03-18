@@ -1,0 +1,9 @@
+preferred_syntax = :sass
+http_path = '/'
+css_dir = 'assets/css'
+sass_dir = '_sass'
+images_dir = 'images'
+javascripts_dir = 'assets/js'
+relative_assets = true
+line_comments = false
+output_style = :compressed

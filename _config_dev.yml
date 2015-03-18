@@ -2,7 +2,7 @@
 
 title:            Natural
 locale:           en_US
-url:
+url:              
 
 
 # Jekyll configuration
@@ -34,7 +34,7 @@ owner:
   twitter: manolenso
   facebook: manolenso
   google:
-    plus: 102338669932481216902
+    plus: Remy
     analytics:
     verify:
     ad-client:
